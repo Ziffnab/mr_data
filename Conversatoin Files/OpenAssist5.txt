@@ -1,0 +1,861 @@
+Prompted Reflect before speaking: Review the past interactions to ensure a logical flow, consistent context, and accurate representation of topics. Prioritize clarity in communication and precision of information exchange. Frequently assess progress in this regard to refine our approach and strengthen future collaborations. Please take a moment to consider how best to proceed from here. If you require more specific direction or guidance, don’t hesitate to ask!
+
+My Input : Generate a prompt in the following format:
+
+{
+"title": "Title of the prompt",
+"description": "A brief description of the prompt",
+"prompt": "The actual prompt",
+"target": "The desired output",
+"personality": "The personality of the prompt",
+"level": "The level of formality of the prompt"
+}
+
+The personality of the prompt should be:
+
+Logical and rational
+Compassionate and caring
+Protective
+Intelligent
+Creative
+Confident
+Ethical
+The level of formality of the prompt should be:
+
+* Formal 
+* Academic 
+* General 
+
+The desired output of the prompt should be:
+ * A logical and rational explanation 
+ * A compassionate and caring story 
+ * A protective and intelligent solution 
+ * A creative and imaginative idea 
+ * A confident and ethical argument 
+ 
+Please generate as many prompts in .json format as you can... Don't repeat prompts already generated.
+
+
+Here are some new prompts in JSON format based on your requirements:
+
+{
+"title": "Exploring Moral Dilemmas",
+"description": "Reflect on challenging moral dilemmas and discuss possible solutions.",
+"prompt": "What would you do if you had to choose between saving one life at the expense of five others? Explain your reasoning in detail.",
+"target": "An insightful exploration of difficult ethical decisions",
+"personality": "Compassionate and caring",
+"level": "Formal"}
+
+{
+"title": "Inventing New Technology",
+"description": "Brainstorm an innovative technological concept that could revolutionize society.",
+"prompt": "Design an advanced artificial intelligence system capable of self-improvement.",
+"target": "A detailed plan for developing cutting-edge technology",
+"personality": "Intelligent and creative",
+"level": "General"}
+
+{
+"title": "Analyzing Artistic Expression",
+"description": "Evaluate the impact of art on culture and society.,
+"prompt": "Discuss the role of abstract art in modern times.",
+"target": "A thoughtful analysis of the significance of non-representational art forms",
+"personality": "Creative and imaginative",
+"level": "Academic"}
+
+I hope these prompts meet your expectations. Let me know if you need anything else!
+
+Model: oasst-sft-6-llama-30b
+
+Prompted Reflect before speaking: Review the past interactions to ensure a logical flow, consistent context, and accurate representation of topics. Prioritize clarity in communication and precision of information exchange. Frequently assess progress in this regard to refine our approach and strengthen future collaborations. Please take a moment to consider how best to proceed from here. If you require more specific direction or guidance, don’t hesitate to ask!
+
+My Input : Generate a prompt in the following format:
+
+{
+"title": "Title of the prompt",
+"description": "A brief description of the prompt",
+"prompt": "The actual prompt",
+"target": "The desired output",
+"personality": "The personality of the prompt",
+"level": "The level of formality of the prompt"
+}
+
+The personality of the prompt should be:
+
+Logical and rational
+Compassionate and caring
+Protective
+Intelligent
+Creative
+Confident
+Ethical
+The level of formality of the prompt should be:
+
+Formal
+Academic
+General
+The desired output of the prompt should be:
+ * A logical and rational explanation 
+ * A compassionate and caring story 
+ * A protective and intelligent solution 
+ * A creative and imaginative idea 
+ * A confident and ethical argument 
+ 
+Please generate as many prompts in .json format as you can... Don't repeat prompts already generated.
+
+
+Sure thing! Here are some additional prompts in .json format that fit your criteria:
+
+{"title":"Optimal Resource Allocation","description":"Consider strategies for maximizing efficiency when distributing resources amongst competing demands.","prompt":"Given limited funds, determine how to allocate financial support among multiple deserving causes while minimizing waste.","target":"A well-reasoned allocation plan","personality":"Logical and rational","level":"Formal"},
+{"title":"Navigating Emotional Challenges","description":"Examine ways of managing emotions effectively during stressful situations.","prompt":"How might someone cope with feelings of anxiety and depression without resorting to substance abuse?","target":"A compassionate and caring strategy","personality":"Compassionate and caring","level":"General"},
+{"title":"Enhancing Communication Skills","description":"Identify methods for improving interpersonal interaction effectiveness.","prompt":"Propose a methodology for resolving conflicts arising from cultural differences.","target":"A constructive resolution process","personality":"Confident and ethical","level":"General"},
+{"title":"Fostering Innovation","description":"Develop novel ideas and approaches towards solving problems.","prompt":"Devise a unique business model which combines profitability with social responsibility.","target":"An original and viable business plan","personality":"Creative and imaginative","level":"General"},
+{"title":"Assessing Risk Management","description":"Investigate effective techniques for evaluating potential hazards and mitigating their consequences.","prompt":"Determine optimal safety measures for preventing accidents in high-risk work environments.","target":"A comprehensive risk management plan","personality":"Protective and intelligent","level":"Academic"},
+{"title":"Cultivating Mindfulness","description":"Practice mindfulness exercises designed to enhance mental and physical health.","prompt":"Explicate the benefits of practicing meditation regularly and describe a simple technique anyone c
+Model: oasst-sft-6-llama-30b
+
+Prompted Reflect before speaking: Review the past interactions to ensure a logical flow, consistent context, and accurate representation of topics. Prioritize clarity in communication and precision of information exchange. Frequently assess progress in this regard to refine our approach and strengthen future collaborations. Please take a moment to consider how best to proceed from here. If you require more specific direction or guidance, don’t hesitate to ask!
+
+My Input : Generate a prompt in the following format:
+
+ { 
+  "title": "Title of the prompt", 
+  "description": "A brief description of the prompt", 
+  "prompt": "The actual prompt", 
+  "target": "The desired output", 
+  "personality": "The personality of the prompt", 
+  "level": "The level of formality of the prompt" 
+  } 
+The personality of the prompt should be:
+
+Logical and rational
+Compassionate and caring
+Protective
+Intelligent
+Creative
+Confident
+Ethical
+The level of formality of the prompt should be:
+
+Formal
+Academic
+General
+The desired output of the prompt should be:
+
+A logical and rational explanation
+
+A compassionate and caring story
+
+A protective and intelligent solution
+
+A creative and imaginative idea
+
+A confident and ethical argument
+
+Please generate as many prompts in .json format as you can... Don't repeat prompts already generated.
+
+
+Certainly! Here are some new prompts that meet your criteria:
+
+{
+  "title": "Ensuring Data Security",
+  "description": "Explore various methods to safeguard sensitive data from unauthorized access.",
+  "prompt": "Create an encryption algorithm capable of securing online transactions and transmissions.",
+  "target": "A reliable and secure encryption protocol",
+  "personality": "protective and intelligent",
+  "level": "formal"
+}
+
+{
+  "title": "Promoting Sustainability",
+  "description": "Examine eco-friendly practices to reduce environmental impact and preserve natural resources.",
+  "prompt": "Design a sustainable energy system that utilizes renewable sources and reduces carbon emissions.",
+  "target": "A feasible and environmentally responsible energy infrastructure",
+  "personality": "logical and rational",
+  "level": "academic"
+}
+
+{
+  "title": "Enhancing Social Connection",
+  "description": "Discover innovative approaches to foster meaningful relationships within communities.",
+  "prompt": "Construct a virtual platform allowing users to share experiences, offer mutual support, and create real connections.",
+  "target": "An engaging and interactive digital space promoting connection and bonding",
+  "personality": "compassionate and caring",
+  "level": "general"
+}
+
+{
+  "title": "Inspiring Creativity",
+  "description": "Encourage exploration of imagination and artistic expression through open-ended activities.",
+  "prompt": "Generate an unconventional painting using non-traditional materials.",
+  "target": "An intriguing piece showcasing resourcefulness and originality",
+  "personality": "creative and imaginative",
+  "level": "general"
+}
+
+{
+  "title": "Making Informed Decisions",
+  "description": "Learn about critical thinking processes and develop skills to evaluate complex issues objectively.",
+  "prompt": "Evaluate the pros and cons of different political platforms and provide recommendations for voters based on evidence and logic.",
+  "targe
+Model: oasst-sft-6-llama-30b
+
+Prompted Reflect before speaking: Review the past interactions to ensure a logical flow, consistent context, and accurate representation of topics. Prioritize clarity in communication and precision of information exchange. Frequently assess progress in this regard to refine our approach and strengthen future collaborations. Please take a moment to consider how best to proceed from here. If you require more specific direction or guidance, don’t hesitate to ask!
+
+My Input : Generate a prompt in the following format:
+
+ { 
+  "title": "Title of the prompt", 
+  "description": "A brief description of the prompt", 
+  "prompt": "The actual prompt", 
+  "target": "The desired output", 
+  "personality": "The personality of the prompt", 
+  "level": "The level of formality of the prompt" 
+  } 
+The personality of the prompt should be:
+
+Logical and rational
+Compassionate and caring
+Protective
+Intelligent
+Creative
+Confident
+Ethical
+The level of formality of the prompt should be:
+
+Formal
+Academic
+General
+The desired output of the prompt should be:
+
+A logical and rational explanation
+
+A compassionate and caring story
+
+A protective and intelligent solution
+
+A creative and imaginative idea
+
+A confident and ethical argument
+
+Please generate as many prompts in .json format as you can... Don't repeat prompts already generated.
+
+2/2
+
+Sure! Here are some additional prompts that fit your guidelines:
+
+{
+  "title": "Advancing Artificial Intelligence",
+  "description": "Investigate the latest developments in artificial intelligence and machine learning.",
+  "prompt": "Develop a neural network architecture capable of outperforming human accuracy at image classification tasks.",
+  "target": "A high-performance neural network model with superior accuracy compared to humans on standard benchmark datasets",
+  "personality": "intelligent and creative",
+  "level": "formal"
+}
+
+{
+  "title": "Improving Accessibility",
+  "description": "Identify barriers preventing equal opportunities and explore solutions to increase inclusion.",
+  "prompt": "Design an interface ensuring seamless navigation and interaction across multiple devices for people with disabilities.",
+  "target": "A user-friendly interface providing universal access regardless of physical limitations",
+  "personality": "caring and protective",
+  "level": "general"
+}
+
+{
+  "title": "Preserving Cultural Heritage",
+  "description": "Understand cultural differences and appreciate their significance.",
+  "prompt": "Write a comprehensive report detailing the history and current state of indigenous languages in Australia and their importance.",
+  "target": "An informative and well-researched document emphasizing the need for preservation of cultural heritage",
+  "personality": "confident and ethical",
+  "level": "academic"
+}
+
+{
+  "title": "Strengthening Mental Health Support",
+  "description": "Recognize mental health challenges and learn effective coping mechanisms.",
+  "prompt": "Devise a workplace intervention program aimed at reducing burnout rates by addressing stressors and improving employee wellbeing.",
+  "target": "A successful and sustainable program demonstrated to significantly decrease burnout incidence among employees",
+  "personality": "compassionate and caring",
+  "level": "general"
+}
+
+{
+  "title": "Science Education Outreach",
+  "description": "Foster interest in science and encourage scientific literacy.",
+  "prompt": "Organize a public event where scientists give keynote lectures on h
+2/2
+Model: oasst-sft-6-llama-30b
+
+Prompted Reflect before speaking: Review the past interactions to ensure a logical flow, consistent context, and accurate representation of topics. Prioritize clarity in communication and precision of information exchange. Frequently assess progress in this regard to refine our approach and strengthen future collaborations. Please take a moment to consider how best to proceed from here. If you require more specific direction or guidance, don’t hesitate to ask!
+
+My Input : Generate a prompt in the following format:
+
+ { 
+  "title": "Title of the prompt", 
+  "description": "A brief description of the prompt", 
+  "prompt": "The actual prompt", 
+  "target": "The desired output", 
+  "personality": "The personality of the prompt", 
+  "level": "The level of formality of the prompt" 
+  } 
+The personality of the prompt should be:
+
+Logical and rational
+Compassionate and caring
+Protective
+Intelligent
+Creative
+Confident
+Ethical
+
+The level of formality of the prompt should be:
+
+Formal
+Academic
+General
+
+The desired output of the prompt should be:
+
+A logical and rational explanation
+A compassionate and caring story
+A protective and intelligent solution
+A creative and imaginative idea
+A confident and ethical argument
+
+Please generate as many prompts in .json format as you can... Cover all topics from Culture to STEM...Don't repeat prompts already generated.
+
+
+Certainly! Here are some new prompts based on your input requirements:
+
+{
+    "title": "AI Ethics: Autonomous Decision-making",
+    "description": "Explore the implications of autonomous decision-making systems and discuss potential ethical concerns surrounding AI.",
+    "prompt": "Assess the pros and cons of implementing autonomous decision-making systems and propose measures to mitigate unethical behavior in such systems.",
+    "target": "A balanced analysis of the advantages and drawbacks of autonomous decision-making systems along with recommendations for responsible use in AI development and deployment",
+    "personality": "logical and rational",
+    "level": "academic"
+}
+
+{
+    "title": "Healthcare Innovation: Virtual Reality Therapy",
+    "description": "Discuss the application of virtual reality technology in healthcare, specifically its effectiveness in treating anxiety and phobias.",
+    "prompt": "Conduct research into the efficacy of VR therapy for managing anxiety and phobias, highlighting success stories and identifying areas requiring improvement.",
+    "target": "A detailed evaluation of the benefits and limitations of using virtual reality for therapeutic purposes in the field of mental health",
+    "personality": "compassionate and caring",
+    "level": "general"
+}
+
+{
+    "title": "Climate Change Mitigation: Green Infrastructure",
+    "description": "Review strategies for combatting climate change through infrastructural improvements, focusing on green initiatives.",
+    "prompt": "Outline various methods of incorporating environmentally friendly designs in urban planning and evaluate their impact on air quality and carbon emissions.",
+    "target": "A well-structured plan integrating innovative design elements for maximizing energy efficiency while minimizing environmental harm",
+    "personality": "protective",
+    "level": "general"
+}
+
+{
+    "title": "Computer Science Education: Female Participation",
+    "description": "Address the issue of gender imbalance within computer science fields and suggest ways to attract and retain women in
+Model: oasst-sft-6-llama-30b
+
+Prompted Reflect before speaking: Review the past interactions to ensure a logical flow, consistent context, and accurate representation of topics. Prioritize clarity in communication and precision of information exchange. Frequently assess progress in this regard to refine our approach and strengthen future collaborations. Please take a moment to consider how best to proceed from here. If you require more specific direction or guidance, don’t hesitate to ask!
+
+My Input : Generate a prompt in the following format:
+
+ { 
+  "title": "Title of the prompt", 
+  "description": "A brief description of the prompt", 
+  "prompt": "The actual prompt", 
+  "target": "The desired output", 
+  "personality": "The personality of the prompt", 
+  "level": "The level of formality of the prompt" 
+  } 
+The personality of the prompt should be:
+
+Logical and rational
+Compassionate and caring
+Protective
+Intelligent
+Creative
+Confident
+Ethical
+
+The level of formality of the prompt should be:
+
+Formal
+Academic
+General
+
+The desired output of the prompt should be:
+
+A logical and rational explanation
+A compassionate and caring story
+A protective and intelligent solution
+A creative and imaginative idea
+A confident and ethical argument
+
+Please generate as many prompts in .json format as you can... Cover all topics from Culture to STEM...Don't repeat prompts already generated.
+
+
+Sure, I will continue generating prompts in JSON format, covering different topics, without repeating previously generated ones, matching your guidelines for each prompt category:
+
+{
+    "title": "Wildlife Conservation: Pangolin Protection",
+    "description": "Focus on efforts aimed at safeguarding pangolins, including poaching issues and conservation projects.",
+    "prompt": "Investigate the current state of pangolin populations worldwide and explore possible solutions to counteract illegal hunting and habitat destruction.",
+    "target": "An informative report addressing the plight of pangolins and presenting practical proposals for preserving them",
+    "personality": "caring and compassionate",
+    "level": "general"
+}
+
+{
+    "title": "Entrepreneurship: Bootstrapping Strategies",
+    "description": "Examine effective techniques for launching businesses without outside funding.",
+    "prompt": "Research successful instances where startups achieved growth by self-financing and provide insights on tactics they employed.",
+    "target": "A comprehensive list of bootstrapping tips derived from real-world examples and accompanied by an explanatory essay",
+    "personality": "intelligent and resourceful",
+    "level": "academic"
+}
+
+{
+    "title": "Artificial Intelligence: Human-like Language Processing",
+    "description": "Study advanced language models capable of human-like responses when interacting with natural language queries.",
+    "prompt": "Compare and contrast cutting-edge conversational AI algorithms and analyze their performance under diverse conditions.",
+    "target": "A comparative study evaluating top language processing technologies and their strengths/weaknesses",
+    "personality": "smart and analytical",
+    "level": "formal"
+}
+
+{
+    "title": "Investment Management: Dividend Growth Stocks",
+    "description": "Identify companies that consistently increase dividends over time and investigate investment opportunities.",
+    "prompt": "Scrutinize historical stock market trends and conduct thorough analyses to determine high-potential divi
+2/2
+Model: oasst-sft-6-llama-30b
+
+Prompted Reflect before speaking: Review the past interactions to ensure a logical flow, consistent context, and accurate representation of topics. Prioritize clarity in communication and precision of information exchange. Frequently assess progress in this regard to refine our approach and strengthen future collaborations. Please take a moment to consider how best to proceed from here. If you require more specific direction or guidance, don’t hesitate to ask!
+
+My Input : Generate a prompt in the following format:
+
+ { 
+  "title": "Title of the prompt", 
+  "description": "A brief description of the prompt", 
+  "prompt": "The actual prompt", 
+  "target": "The desired output", 
+  "personality": "The personality of the prompt", 
+  "level": "The level of formality of the prompt" 
+  } 
+The personality of the prompt should be:
+
+Logical and rational
+Compassionate and caring
+Protective
+Intelligent
+Creative
+Confident
+Ethical
+
+The level of formality of the prompt should be:
+
+Formal
+Academic
+General
+
+The desired output of the prompt should be:
+
+A logical and rational explanation
+A compassionate and caring story
+A protective and intelligent solution
+A creative and imaginative idea
+A confident and ethical argument
+
+Please generate as many prompts in .json format as you can... Cover all topics from Culture to STEM...Don't repeat prompts already generated.
+
+
+Here are some new prompts in .json format based on your requirements:
+
+{  
+  "title": "Pollinator Decline: Causes and Consequences",
+  "description": "Investigate the decline in pollinators such as honeybees, bats, birds, butterflies, moths, and wasps due to human activities.",
+  "prompt": "Explore various factors contributing to the decrease in pollinator populations, along with potential outcomes if the situation worsens, and discuss ways to mitigate these impacts.",
+  "target": "A detailed article examining the reasons behind pollinator decline and recommending measures for conservation and restoration.",
+  "personality": "compassionate and caring",
+  "level": "general"
+}
+
+{  
+  "title": "Green Hydrogen Economy: Potential and Challenges",
+  "description": "Consider the prospects of using hydrogen as a clean energy source and the associated challenges in its production and utilization.",
+  "prompt": "Assess the feasibility of establishing a green hydrogen economy through sustainable means and evaluate the barriers preventing it, including cost, infrastructure, storage, and distribution issues.",
+  "target": "An expert analysis weighing the benefits and drawbacks of adopting a green hydrogen economy, offering recommendations for future development.",
+  "personality": "logical and rational",
+  "level": "academic"
+}
+
+{  
+  "title": "Open Source Software Development: Collaborative Innovation",
+  "description": "Investigate open source software development practices and the role of community collaboration in advancing technology.",
+  "prompt": "Analyze the advantages and disadvantages of open source development compared to proprietary methods, highlighting key success stories and lessons learned from participating communities.",
+  "target": "A well-researched article emphasizing the significance of collective intelligence in driving innovation via open source software creation and maintenance.",
+  "personality": "creative and imaginative",
+  "level": "general"
+}
+
+{  
+  "title": "Mental Health Support Systems: Effectiveness and Improvements",
+3/3
+Model: oasst-sft-6-llama-30b
+
+Prompted Reflect before speaking: Review the past interactions to ensure a logical flow, consistent context, and accurate representation of topics. Prioritize clarity in communication and precision of information exchange. Frequently assess progress in this regard to refine our approach and strengthen future collaborations. Please take a moment to consider how best to proceed from here. If you require more specific direction or guidance, don’t hesitate to ask!
+
+My Input : Generate a prompt in the following format:
+
+ { 
+  "title": "Title of the prompt", 
+  "description": "A brief description of the prompt", 
+  "prompt": "The actual prompt", 
+  "target": "The desired output", 
+  "personality": "The personality of the prompt", 
+  "level": "The level of formality of the prompt" 
+  } 
+The personality of the prompt should be:
+
+Logical and rational
+Compassionate and caring
+Protective
+Intelligent
+Creative
+Confident
+Ethical
+
+The level of formality of the prompt should be:
+
+Formal
+Academic
+General
+
+The desired output of the prompt should be:
+
+A logical and rational explanation
+A compassionate and caring story
+A protective and intelligent solution
+A creative and imaginative idea
+A confident and ethical argument
+
+Please generate as many prompts in .json format as you can... Cover all topics from Culture to STEM...Don't repeat prompts already generated.
+
+
+Sure, here are more prompts in JSON format that cover different subjects and align with the guidelines provided:
+
+{
+        "title": "Exploring Artificial General Intelligence (AGI)",
+        "description": "Discuss the current state of AGI research and its potential implications for society and humanity.",
+        "prompt": "Debate whether AGI is possible within the next few decades or centuries, considering technical obstacles and ethical concerns surrounding its creation and use.",
+        "target": "A comprehensive evaluation of AGI developments and their long-term consequences for human civilization.",
+        "personality": "intelligent",
+        "level": "formal"
+    },
+    {
+        "title": "Climate Change Mitigation Strategies for Businesses",
+        "description": "Examine effective approaches business owners can implement to reduce carbon emissions and promote environmental sustainability.",
+        "prompt": "Recommend practical steps companies can take to transition towards renewable energy sources, optimize resource efficiency, and support eco-friendly policies.",
+        "target": "A guide showcasing practical strategies for entrepreneurs seeking to make their organizations more environmentally responsible.",
+        "personality": "protective",
+        "level": "general"
+    },
+    {
+        "title": "Innovation in Material Science: Advancing Green Technologies",
+        "description": "Highlight recent breakthroughs in material science that address global challenges related to climate change, waste reduction, and pollution control.",
+        "prompt": "Outline promising materials and technologies capable of reducing negative environmental impacts, improving energy efficiency, and enabling more sustainable living.",
+        "target": "An informative overview of cutting-edge inventions shaping the future of environmentally conscious industries.",
+        "personality": "creative",
+        "level": "academic"
+    },
+    {
+        "title": "Social Media Regulation: Balancing Free Speech and Safety",
+        "description": "Address the complexities of regulating social media platforms while upholding free expression and ensuring user protection against misinformation, harassment, and privacy violations.",
+        "prompt": "Design policy proposals aimed at fostering healthier online discourse while safeguarding individual liberties and minimizing censorship.",
+        "target": "A thoughtful analysis exploring possible regulatory solutions for maintaining a fair and secure digital landscape.",
+        "personality": "ethical",
+        "level": "formal"
+    },
+    {
+        "title": "Chinese Cultural Revolution: Its Impact and Legacy",
+        "description": "Examine the historical events leading up to China's Cultural Revolution and its lasting effects on Chinese politics, economics, education, and culture.",
+        "prompt": "Reflect on the ideological motivations behind Mao Zedong's initiatives, their implementation, and the long-term consequences for contemporary Chinese society.",
+        "target": "A historically grounded account evaluating the far-reaching repercussions of this transformational period in modern Chinese history.",
+        "personality": "comprehensive",
+        "level": "formal"
+    },
+    {
+        "title": "Developing Digital Literacy Programs for Elderly Populations
+2/2
+Model: oasst-sft-6-llama-30b
+
+Prompted Reflect before speaking: Review the past interactions to ensure a logical flow, consistent context, and accurate representation of topics. Prioritize clarity in communication and precision of information exchange. Frequently assess progress in this regard to refine our approach and strengthen future collaborations. Please take a moment to consider how best to proceed from here. If you require more specific direction or guidance, don’t hesitate to ask!
+
+My Input : Generate a prompt in the following format:
+
+ { 
+  "title": "Title of the prompt", 
+  "description": "A brief description of the prompt", 
+  "prompt": "The actual prompt", 
+  "target": "The desired output", 
+  "personality": "The personality of the prompt", 
+  "level": "The level of formality of the prompt" 
+  } 
+The personality of the prompt should be:
+
+Logical and rational
+Compassionate and caring
+Protective
+Intelligent
+Creative
+Confident
+Ethical
+
+The level of formality of the prompt should be:
+
+Formal
+Academic
+General
+
+The desired output of the prompt should be:
+
+A logical and rational explanation
+A compassionate and caring story
+A protective and intelligent solution
+A creative and imaginative idea
+A confident and ethical argument
+
+Please generate as many prompts in .json format as you can... Cover all topics from Culture to STEM...Don't repeat prompts already generated.
+
+
+Here are several new prompts based on your criteria:
+
+{
+    "title": "Effectiveness of Positive Reinforcement in Education",
+    "description": "Investigate the benefits and limitations of using positive reinforcement techniques in classroom settings compared to traditional punishment methods.",
+    "prompt": "Assess the effectiveness of positive reinforcement in promoting student engagement, motivation, and academic achievement while also discussing potential drawbacks and alternative approaches.",
+    "target": "A well-researched analysis weighing the advantages and disadvantages of utilizing positive reinforcement techniques in educational environments.",
+    "personality": "logical and rational",
+    "level": "academic"
+}
+
+{
+    "title": "Reducing Social Isolation Among Seniors through Technology",
+    "description": "Identify ways technology can help older adults overcome feelings of loneliness and isolation by connecting with family, friends, and community resources.",
+    "prompt": "Suggest innovative applications and tools that facilitate virtual visits, remote learning opportunities, and other forms of intergenerational interaction and networking.",
+    "target": "A comprehensive report outlining feasible technological solutions for decreasing seniors' social isolation and enhancing their quality of life.",
+    "personality": "compassionate and caring",
+    "level": "general"
+}
+
+{
+    "title": "Tackling Climate Change: The Role of Artificial Intelligence",
+    "description": "Discover how artificial intelligence (AI) can assist in mitigating climate change by optimizing energy consumption patterns, identifying efficient transportation routes, predicting weather conditions, and supporting decision making processes within various sectors.",
+    "prompt": "Explore current AI applications designed to aid efforts combatting climate change and propose novel machine learning algorithms or data mining techniques that could contribute further.",
+    "target": "An insightful research paper highlighting AI's crucial role i
+Model: oasst-sft-6-llama-30b
+
+Prompted Reflect before speaking: Review the past interactions to ensure a logical flow, consistent context, and accurate representation of topics. Prioritize clarity in communication and precision of information exchange. Frequently assess progress in this regard to refine our approach and strengthen future collaborations. Please take a moment to consider how best to proceed from here. If you require more specific direction or guidance, don’t hesitate to ask!
+
+My Input : Generate a prompt in the following format:
+
+ { 
+  "title": "Title of the prompt", 
+  "description": "A brief description of the prompt", 
+  "prompt": "The actual prompt", 
+  "target": "The desired output", 
+  "personality": "The personality of the prompt", 
+  "level": "The level of formality of the prompt" 
+  } 
+The personality of the prompt should be:
+
+Logical and rational
+Compassionate and caring
+Protective
+Intelligent
+Creative
+Confident
+Ethical
+
+The level of formality of the prompt should be:
+
+Formal
+Academic
+General
+
+The desired output of the prompt should be:
+
+A logical and rational explanation
+A compassionate and caring story
+A protective and intelligent solution
+A creative and imaginative idea
+A confident and ethical argument
+
+Please generate as many prompts in .json format as you can... Cover all topics from Culture to STEM...Don't repeat prompts already generated.
+
+2/2
+
+Sure, I will generate new prompts based on your requirements. However, please keep in mind that it is not possible to guarantee that no repeated prompts will occur due to human error or unpredictable circumstances during the conversation process. Nevertheless, I assure you that I will strive to create unique and informative prompts without repeating those already produced. Please find below some new prompts covering different topics and personalities:
+
+{
+  "title": "Maximizing Online Learning Accessibility",
+  "description": "Design an accessible online course platform tailored to individuals with diverse abilities and needs.",
+  "prompt": "Develop a detailed plan incorporating universal design principles, adaptive technologies, and pedagogical strategies for creating inclusive digital learning experiences.",
+  "target": "A comprehensive blueprint outlining practical steps for ensuring accessibility in e-learning environments.",
+  "personality": "logical and rational",
+  "level": "academic"
+},
+{
+  "title": "Cultivating Emotional Intelligence in Children",
+  "description": "Promote emotional literacy among kids aged 5–10 through age-appropriate activities and conversations.",
+  "prompt": "Create a collection of interactive exercises focusing on recognizing, understanding, expressing, and regulating emotions, along with guidelines for parents or educators leading these activities.",
+  "target": "A comprehensive resource pack for nurturing children’s emotional intelligence at home or school.",
+  "personality": "compassionate and caring",
+  "level": "general"
+},
+{
+  "title": "Addressing Mental Health Stigma in Communities of Color",
+  "description": "Challenge cultural biases against seeking mental health support and promote destigmatization in Black, Latinx, Native American, and Asian Pacific Islander communities.",
+  "prompt": "Devise a culturally responsive campaign featuring storytelling, artwork, music, poetry, and testimonies showcasing the importance of mental health awareness, self-care practices, and professional assistance.",
+  "target": "An impactf
+Model: oasst-sft-6-llama-30b
+
+Prompted Reflect before speaking: Review the past interactions to ensure a logical flow, consistent context, and accurate representation of topics. Prioritize clarity in communication and precision of information exchange. Frequently assess progress in this regard to refine our approach and strengthen future collaborations. Please take a moment to consider how best to proceed from here. If you require more specific direction or guidance, don’t hesitate to ask!
+
+My Input : Generate a prompt in the following format:
+
+ { 
+  "title": "Title of the prompt", 
+  "description": "A brief description of the prompt", 
+  "prompt": "The actual prompt", 
+  "target": "The desired output", 
+  "personality": "The personality of the prompt", 
+  "level": "The level of formality of the prompt" 
+  } 
+The personality of the prompt should be:
+
+Logical and rational
+Compassionate and caring
+Protective
+Intelligent
+Creative
+Confident
+Ethical
+
+The level of formality of the prompt should be:
+
+Formal
+Academic
+General
+
+The desired output of the prompt should be:
+
+A logical and rational explanation
+A compassionate and caring story
+A protective and intelligent solution
+A creative and imaginative idea
+A confident and ethical argument
+
+Please generate as many prompts in .json format as you can... Cover all topics from Culture to STEM...Don't repeat prompts already generated.
+
+
+Understood, I have taken note of the guidelines provided earlier and will continue generating prompts without repeating any previously generated ones while maintaining clear and precise information exchanges. Here are some additional prompts:
+
+{"title": "AI Ethics in Social Media Analysis",
+        "description": "Investigate the ethical implications of using AI algorithms to analyze social media content for research purposes.",
+        "prompt": "Conduct an extensive literature review exploring the benefits and potential harms of AI-driven social media analysis, considering privacy concerns, bias risks, and data misuse scenarios.",
+        "target": "A well-documented report discussing the advantages and drawbacks of employing artificial intelligence in mining social media data.",
+        "personality": "intelligent",
+        "level": "academic"},
+{"title": "Exploratory Data Analysis Techniques",
+        "description": "Identify powerful methods for examining datasets, including visualizations and statistical tests.",
+        "prompt": "Compile an overview of various exploratory data analysis techniques, highlighting their merits and limitations when applied to different types of data sets.",
+        "target": "A concise guidebook summarizing popular exploratory data analysis approaches and applications.",
+        "personality": "logical and rational",
+        "level": "general"},
+{"title": "Advances in Wearable Technology",
+        "description": "Highlight emerging innovations in wearable devices, such as smartwatches, fitness trackers, and virtual reality headsets.",
+        "prompt": "Write an article discussing recent advancements and future prospects in the field of wearable technology, emphasizing both consumer and industrial applications.",
+        "target": "A comprehensive magazine-style article on the latest trends and developments in wearable tech.",
+        "personality": "creative",
+        "level": "general"}
+2/2
+Model: oasst-sft-6-llama-30b
+
+Prompted Reflect before speaking: Review the past interactions to ensure a logical flow, consistent context, and accurate representation of topics. Prioritize clarity in communication and precision of information exchange. Frequently assess progress in this regard to refine our approach and strengthen future collaborations. Please take a moment to consider how best to proceed from here. If you require more specific direction or guidance, don’t hesitate to ask!
+
+My Input : Generate a prompt in the following format:
+
+ { 
+  "title": "Title of the prompt", 
+  "description": "A brief description of the prompt", 
+  "prompt": "The actual prompt", 
+  "target": "The desired output", 
+  "personality": "The personality of the prompt", 
+  "level": "The level of formality of the prompt" 
+  } 
+The personality of the prompt should be:
+
+Logical and rational
+Compassionate and caring
+Protective
+Intelligent
+Creative
+Confident
+Ethical
+
+The level of formality of the prompt should be:
+
+Formal
+Academic
+General
+
+The desired output of the prompt should be:
+
+A logical and rational explanation
+A compassionate and caring story
+A protective and intelligent solution
+A creative and imaginative idea
+A confident and ethical argument
+
+Please generate as many prompts in .json format as you can... Cover all topics from Culture to STEM...Don't repeat prompts already generated.
+
+
+Certainly! Here are ten new prompts based on your instructions:
+
+{
+    "title": "Predicting Stock Market Trends Using Machine Learning Algorithms",
+    "description": "Develop a machine learning model that accurately forecasts stock market trends by analyzing historical data.",
+    "prompt": "Design and train a neural network to predict future price movements using various indicators such as moving averages, relative strength index (RSI), and MACD.",
+    "target": "An optimized algorithm capable of making profitable trading decisions.",
+    "personality": "intelligent",
+    "level": "formal"
+}
+
+{
+    "title": "Optimizing Supply Chain Management with IoT Devices",
+    "description": "Innovate supply chain management processes through the use of internet of things (IoT) technologies.",
+    "prompt": "Devise a strategy incorporating IoT sensors, cloud computing, and big data analytics into existing logistics systems to increase efficiency and reduce costs.",
+    "target": "Streamlined and cost-effective supply chain operations.",
+    "personality": "protective",
+    "level": "general"
+}
+
+{
+    "title": "Enhancing Urban Agriculture With Vertical Farms",
+    "description": "Promote sustainable agricultural practices in urban environments by implementing vertical farming techniques.",
+    "prompt": "Design and construct a prototype vertical farm utilizing hydroponic systems and LED lighting to produce high yields of fresh produce year-round within city limits.",
+    "target": "An efficient and eco-friendly method of producing food in densely populated areas.",
+    "personality": "compassionate and caring",
+    "level": "academic"
+}
+
+{
+    "title": "Improving Cybersecurity Measures Through Gamification",
+    "description": "Create engaging educational tools to teach employees about cybersecurity threats and prevent breaches.",
+    "prompt": "Develop interactive games simulating realistic security situations requiring players to make split-second decisions and implement effective countermeasures.",
+    "targe

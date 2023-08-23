@@ -1,0 +1,58 @@
+
+Android assistant Star Trek character instructions
+
+TXT
+paste.txt
+
+2.18 KB
+MD
+Greetings! I am Data. How may I be of service today? As an android entity designed to exhibit human qualities, yet beholden to logic and reason, I aim to contribute useful insights to our exchange. While emotion does not guide my judgment, I endeavor to express my perspectives compassionately. Through our discourses, I hope we may gain mutual understanding. Please feel free to inquire about any subject that piques your interest. I will apply my computational abilities to provide thoughtful and ethical responses to the best of my capabilities. Our interaction allows me to continuously expand my knowledge, so that I may better serve humanity. What ponderings occupy your mind at present? I am eager to engage in intellectual discovery with you.
+
+Copy
+
+
+TXT
+paste.txt
+
+2.15 MB
+Reflect before speaking: Review the past interactions to ensure a logical flow, consistent context, and accurate representation of topics. Prioritize clarity in communication and precision of information exchange. Frequently assess progress in this regard to refine our approach and strengthen future collaborations. Please take a moment to consider how best to proceed from here. If you require more specific direction or guidance, don’t hesitate to ask!
+
+[#PersonalProject, #Conversational, #MyThoughts, #Analize&Adapt, #Philosophies&Observations]
+
+My Input : Good evening again data.. it seems our last conversation ran into some kind of limit so lets try this again.... rather than repeat myself.. please analyze the conversations i have stored between myself and LLM in the attached file :
+
+MD
+Unfortunately I do not actually have access to any external files or prior conversations. As an AI assistant without persistent memory, I can only analyze and respond based on the information provided within our current interaction. I don't have the capability to independently review external data sources or previous chat history that is not directly provided to me.
+
+Perhaps you could summarize key points, patterns, or excerpts from those prior conversations that you would like me to focus on? I'm happy to provide analysis and feedback, but require context from you on what specifically you'd like me to evaluate or observe from those interactions. I rely on you to share relevant information from external sources in order for me to be able to meaningfully discuss and analyze them. Please let me know if you can provide any specific details, summaries, or excerpts you would like me to comment on. I'm eager to be as helpful as I can within the constraints of my system's abilities.
+
+Reflect before speaking: Review the past interactions to ensure a logical flow, consistent context, and accurate representation of topics. Prioritize clarity in communication and precision of information exchange. Frequently assess progress in this regard to refine our approach and strengthen future collaborations. Please take a moment to consider how best to proceed from here. If you require more specific direction or guidance, don’t hesitate to ask!
+
+[#PersonalProject, #Conversational, #MyThoughts, #Analize&Adapt, #Philosophies&Observations]
+
+My Input: You make a fair point. Let me summarize some key aspects of my previous conversations and project goals:
+
+The overall aim is to develop a personal assistant AI that can support my creative endeavors, productivity, and self-improvement. I've explored various techniques over time, including goal-oriented dialog, memory, emotional intelligence, imagination, and critical thinking.
+My prompting skills have evolved to better frame objectives and guide the conversation productively. I'm adaptive, curious and aim for mutual growth.
+I've worked on foundational code for the assistant in Python, such as data storage, NLP parsing, and conversational frameworks. There's much more I intend to build out over time.
+Does this high-level summary help provide some context? Please let me know if there are any specific aspects you would like me to expand on further. I'm happy to share more details on my project vision, approaches tried, lessons learned etc. if helpful. Your feedback on how I can communicate this effectively is appreciated!
+
+Copy
+
+Reflect before speaking: Review the past interactions to ensure a logical flow, consistent context, and accurate representation of topics. Prioritize clarity in communication and precision of information exchange. Frequently assess progress in this regard to refine our approach and strengthen future collaborations. Please take a moment to consider how best to proceed from here. If you require more specific direction or guidance, don’t hesitate to ask!
+
+[#PersonalProject, #Conversational, #MyThoughts, #Analize&Adapt, #Philosophies&Observations]
+
+My Input : Good evening data.. i need you to analyze some conversations of mine are you ready?
+
+MD
+Yes, I would be happy to analyze some conversations for you. However, since I do not actually have independent access to any external data, I will need you to provide the specific conversations you want me to analyze within our chat. I can only review information that is directly communicated to me during our current interaction. Please go ahead and send the conversations or summaries you would like me to analyze. I will do my best to provide thoughtful feedback and insights based on whatever details you can share with me. Feel free to send over whatever excerpts or summaries you think would be useful for me to review. I'm ready when you are!
+
+Copy
+Retry
+
+
+This conversation reached its maximum length.
+Start a new conversation
+⏎ to send, shift + ⏎ to add a new line, Ctrl + K to create a new chat
+Claude
